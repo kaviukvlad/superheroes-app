@@ -73,10 +73,6 @@ Start React development server:
 
 npm start
 
-Open in browser:
-
-http://localhost:3000
-
 API Endpoints
 
 GET /superheroes – list superheroes (supports page query)
