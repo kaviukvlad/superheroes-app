@@ -1,4 +1,4 @@
-// App.jsx
+
 import { Outlet, Link } from "react-router-dom";
 import Layout from "./components/Layout";
 import "./index.css";
